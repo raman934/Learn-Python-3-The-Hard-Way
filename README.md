@@ -1,5 +1,6 @@
 # On my time in Quarantine
 Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https://www.github.com/zedshaw)
+
 ---
 ## Daily Progress
 

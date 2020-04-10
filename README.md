@@ -1,5 +1,13 @@
 # On my time in Quarantine
 Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https://www.github.com/zedshaw)
+---
+## Daily Progress
+
+* Day 1 -- ex1 to ex12
+
+* Day 2 -- ex13 to ex16
+
+* Day 3 -- ex17 to ex18
 
 ---
 
@@ -43,10 +51,3 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 
 ---
 
-## Daily Progress
-
-* [Day 1 -- ex1 to ex12]
-
-* Day 2 -- ex13 to ex16
-
-* Day 3 -- ex17 to ex18

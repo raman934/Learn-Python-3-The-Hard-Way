@@ -4,59 +4,59 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 ---
 ## Daily Progress
 
-* Day 1 -- ex1 to ex12
+* [Day 1 -- ex1 to ex12](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%201)
 
-* Day 2 -- ex13 to ex16
+* [Day 2 -- ex13 to ex16](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%202)
 
-* Day 3 -- ex17 to ex18
+* [Day 3 -- ex17 to ex18](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%203)
 
-* Day 4 -- ex19 to ex21
+* [Day 4 -- ex19 to ex21](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%204)
 
 ---
 
 ## The exercise:
 
-* [ex1.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex1.py)
+* [ex1.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex1.py)
 
-* [ex2.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex2.py)
+* [ex2.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex2.py)
 
-* [ex3.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex3.py)
+* [ex3.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex3.py)
 
-* [ex4.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex4.py)
+* [ex4.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex4.py)
 
-* [ex5.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex5.py)
+* [ex5.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex5.py)
 
-* [ex6.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex6.py)
+* [ex6.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex6.py)
 
-* [ex7.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex7.py)
+* [ex7.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex7.py)
 
-* [ex8.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex8.py)
+* [ex8.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex8.py)
 
-* [ex9.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex9.py)
+* [ex9.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex9.py)
 
-* [ex10.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex10.py)
+* [ex10.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex10.py)
 
-* [ex11.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex11.py)
+* [ex11.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex11.py)
 
-* [ex12.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex12.py)
+* [ex12.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%201/ex12.py)
 
-* [ex13.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex13.py)
+* [ex13.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%202/ex13.py)
 
-* [ex14.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex14.py)
+* [ex14.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%202/ex14.py)
 
-* [ex15.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex15.py)
+* [ex15.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%202/ex15.py)
 
-* [ex16.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex16.py)
+* [ex16.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%202/ex16.py)
 
-* [ex17.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex17.py)
+* [ex17.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%203/ex17.py)
 
-* [ex18.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex18.py)
+* [ex18.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%203/ex18.py)
 
-* [ex19.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex19.py)
+* [ex19.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%204/ex19.py)
 
-* [ex20.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex20.py)
+* [ex20.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%204/ex20.py)
 
-* [ex21.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex21.py)
+* [ex21.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%204/ex21.py)
 
 ---
 

@@ -10,6 +10,8 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 
 * Day 3 -- ex17 to ex18
 
+* Day 4 -- ex19 to ex21
+
 ---
 
 ## The exercise:

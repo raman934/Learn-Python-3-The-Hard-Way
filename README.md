@@ -52,5 +52,11 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 
 * [ex18.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex18.py)
 
+* [ex19.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex19.py)
+
+* [ex20.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex20.py)
+
+* [ex21.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/ex21.py)
+
 ---
 

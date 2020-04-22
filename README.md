@@ -18,6 +18,8 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 
 * [Day 7 -- ex24](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%207)
 
+* [Day 8 -- ex25](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%208)
+
 ---
 
 ## The exercise:
@@ -63,6 +65,12 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 * [ex20.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%204/ex20.py)
 
 * [ex21.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%204/ex21.py)
+
+* [ex23.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%206/ex23.py)
+
+* [ex24.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%207/ex24.py)
+
+* [ex25.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%208/ex25.py)
 
 ---
 

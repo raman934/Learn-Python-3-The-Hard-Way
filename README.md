@@ -24,6 +24,8 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 
 * [Day 10 -- ex23-extra](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%2010)
 
+* [Day 11 -- ex27-ex35](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%2011)
+
 ---
 
 ## The exercise:
@@ -77,6 +79,18 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 * [ex25.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%208/ex25.py)
 
 * [ex26.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%209/ex26.py)
+
+* [ex29.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%2011/ex29.py)
+
+* [ex30.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%2011/ex29.py)
+
+* [ex31.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%2011/ex30.py)
+
+* [ex32.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%2011/ex31.py)
+
+* [ex33.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%2011/ex33.py)
+
+* [ex35.py](https://github.com/raman934/Learn-Python-3-The-Hard-Way/blob/master/Day%2011/ex35.py)
 
 ---
 

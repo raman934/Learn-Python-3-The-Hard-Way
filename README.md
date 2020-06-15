@@ -26,6 +26,8 @@ Based on the book "Learn Python 3 the Hard Way" by Zed A. Shaw [@zedshaw](https:
 
 * [Day 11 -- ex27-ex35](https://github.com/raman934/Learn-Python-3-The-Hard-Way/tree/master/Day%2011)
 
+* Day 12 -- ex36-ex37 (ex37 not mastered yet...)
+
 ---
 
 ## The exercise:
